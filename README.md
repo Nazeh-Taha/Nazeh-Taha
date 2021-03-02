@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nazeh Taha</h1>
 <h3 align="center">A passionate frontend developer from Palestine ✌</h3>
-
+![alt text](https://s4.gifyu.com/images/New-Project-4.gif)
 - 🔭 I’m currently working on **MVP**
 
 - 🌱 I’m currently learning **Unit testing**
