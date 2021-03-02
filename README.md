@@ -20,6 +20,6 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nazeh-taha&show_icons=true&locale=en" alt="nazeh-taha" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nazeh-taha&show_icons=true&&theme=prussian&locale=en" alt="nazeh-taha" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nazeh-taha&" alt="nazeh-taha" /></p>
+
