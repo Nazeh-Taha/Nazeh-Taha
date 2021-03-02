@@ -18,7 +18,7 @@
 - ⚡ Fun fact **My sneeze sound very very loud 🤣**
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nazeh-taha&show_icons=true&locale=en&layout=compact" alt="nazeh-taha" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nazeh-taha&show_icons=true&locale=en" alt="nazeh-taha" /></p>
 
