@@ -8,13 +8,13 @@
 
 - 👨‍💻 Take a look to [my portfolio](http://nazeh-taha.herokuapp.com/)
 
-- 📝 I regularly write articles on [https://nazehtaha.herokuapp.com/](https://nazehtaha.herokuapp.com/)
+- 📝 I regularly write articles on [my blog](https://nazehtaha.herokuapp.com/)
 
 - 💬 Ask me about **React js**
 
 - 📫 How to reach me **nazeh3036@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1fPUzFBhfrk6AeZ17LO1tya_vTulQ6so7/view?usp=sharing](https://drive.google.com/file/d/1fPUzFBhfrk6AeZ17LO1tya_vTulQ6so7/view?usp=sharing)
+- 📄 Know about my experiences ["My Resume"](https://drive.google.com/file/d/1fPUzFBhfrk6AeZ17LO1tya_vTulQ6so7/view?usp=sharing)
 
 - ⚡ Fun fact **My sneeze sound very very loud 🤣**
 
