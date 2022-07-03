@@ -2,9 +2,7 @@
 <h3 align="center">A passionate frontend developer from Palestine ✌</h3>
 
 <img src="https://s4.gifyu.com/images/New-Project-4.gif" alt="Databay showcase gif" title="Databay showcase gif" width="100%"/>
-- 🔭 I’m currently working on **MVP**
-
-- 🌱 I’m currently learning **Unit testing**
+- 🔭 I’m currently working on [virtualizedin](https://virtualizedin.com/)
 
 - 👨‍💻 Take a look to [my portfolio](http://nazeh-taha.herokuapp.com/)
 
