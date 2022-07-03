@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Unit testing**
 
-- 👨‍💻 Take a look to my portfolio [http://nazeh-taha.herokuapp.com/](http://nazeh-taha.herokuapp.com/)
+- 👨‍💻 Take a look to [my portfolio](http://nazeh-taha.herokuapp.com/)
 
 - 📝 I regularly write articles on [https://nazehtaha.herokuapp.com/](https://nazehtaha.herokuapp.com/)
 
